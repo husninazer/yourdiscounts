@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>images/logo.jpg</file>
+        <file>Offerer.qml</file>
+        <file>Offeree.qml</file>
+        <file>images/sample.jpeg</file>
+        <file>home.js</file>
+        <file>images/background.png</file>
+        <file>Lato-Light.ttf</file>
+        <file>main.js</file>
+        <file>android-sources/src/org/yourDiscounts/AndroidRequisites.java</file>
+        <file>MapPage.qml</file>
+        <file>MapPoint.qml</file>
+        <file>images/mapPoint.png</file>
+        <file>GMapPage.qml</file>
+        <file>CustomDialog.qml</file>
+        <file>Profile.qml</file>
+        <file>images/logo.png</file>
+        <file>images/logoMain.png</file>
+        <file>images/mapLoading.gif</file>
+        <file>android-sources/src/org/yourDiscounts/RequestPermissions.java</file>
+    </qresource>
+</RCC>
